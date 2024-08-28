@@ -2,7 +2,9 @@
 - 👀 I’m a data analyst who enjoy working with datasets.
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on data analysis projects, volunteering and job opportunities.
-- 📫 Let's connect on LinkedIn 
+- 📫 Let's connect on [Linkedin](www.linkedin.com/in/habibatmeshioye)
+
+ 
   
 
 
