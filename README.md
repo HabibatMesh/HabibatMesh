@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Python and SQL.
 - 💞️ I’m looking to collaborate on data analysis projects, volunteering and job opportunities.
 - 📫 Let's connect on LinkedIn 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  
+
 
 <!---
 HabibatMesh/HabibatMesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
